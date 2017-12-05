@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Lab 3.3 NavDrawer</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="import_fragment">Import Fragment</string>
+    <string name="button">Button</string>
+    <string name="show_message">Show Message</string>
+    <string name="get_photo" />
+    <string name="getPhoto">Get Photo</string>
+</resources>
